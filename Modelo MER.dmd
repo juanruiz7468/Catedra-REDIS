@@ -1,0 +1,8 @@
+<?xml version = '1.0' encoding = 'UTF-8'?>
+<OSDM_Design class="oracle.dbtools.crest.model.design.Design" name="Modelo MER" id="9FB10EF0-E7A5-916A-E712-3393C6712A54" version="3.5">
+<createdBy>lrios</createdBy>
+<createdTime>2023-08-08 23:35:25 UTC</createdTime>
+<ownerDesignName>Nomina08082023</ownerDesignName>
+<capitalNames>false</capitalNames>
+<designId>9FB10EF0-E7A5-916A-E712-3393C6712A54</designId>
+</OSDM_Design>
